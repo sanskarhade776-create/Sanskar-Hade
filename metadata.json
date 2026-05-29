@@ -1,0 +1,6 @@
+{
+  "name": "Underwater Flappy",
+  "description": "Dive, dodge colorful coral obstacles, and unlock sea creature power-ups in this underwater infinite scrolling adventure!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
